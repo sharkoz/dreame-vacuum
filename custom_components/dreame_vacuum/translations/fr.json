@@ -451,24 +451,24 @@
   },
   "services": {
     "vacuum_clean_segment": {
-      "name": "Clean Segment",
-      "description": "Start the cleaning operation in the selected rooms.",
+      "name": "Nettoyer la zone",
+      "description": "Démarrer le nettoyage dans les pièces sélectionnées.",
       "fields": {
         "segments": {
-          "name": "Segments",
-          "description": "List of rooms to be cleaned. Only room's Character or an array of room's character, cleaning times, fan speed and mop mode to override the default values per room."
+          "name": "Zones",
+          "description": "Liste de pièces à nettoyer. Only room's Character or an array of room's character, cleaning times, fan speed and mop mode to override the default values per room."
         },
         "repeats": {
-          "name": "Repeats",
-          "description": "Number of cleaning passes for every selected room (unless it is overridden by customized cleaning parameter)."
+          "name": "Passages",
+          "description": "Nombre de passages pour chaque pièce sélectionnée (sauf si surchargé)."
         },
         "suction_level": {
-          "name": "Suction Level",
-          "description": "Fan speed for every selected room (unless it is overridden by customized cleaning parameter)."
+          "name": "Niveau d'aspiration",
+          "description": "Puissance d'aspiration pour chaque pièce sélectionnée (sauf si surchargé)."
         },
         "water_volume": {
-          "name": "Water Volume",
-          "description": "Water level for every selected room (unless it is overridden by customized cleaning parameter)."
+          "name": "Débit d'eau",
+          "description": "Débit d'eau pour chaque pièce sélectionnée (sauf si surchargé)."
         }
       }
     },
@@ -563,8 +563,8 @@
       }
     },
     "vacuum_request_map": {
-      "name": "Request Map",
-      "description": "Request map data"
+      "name": "Cartographier",
+      "description": "Demande de cartographie"
     },
     "vacuum_select_map": {
       "name": "Select Map",
