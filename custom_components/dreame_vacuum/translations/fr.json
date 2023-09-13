@@ -117,7 +117,7 @@
         "state": {
           "avoidance": "Évitement",
           "adaptation": "Adaptation",
-          "remove_mop": "Retirer la vadrouille"
+          "remove_mop": "Retirer la serpillière"
         }
       },
       "mop_wash_level": {
@@ -177,8 +177,8 @@
           "upgrading": "En cours de mise à jour",
           "clean_summon": "Appel à nettoyer",
           "station_reset": "Réinitialisation de la station",
-          "returning_install_mop": "Retour à l'installation de la vadrouille",
-          "returning_remove_mop": "Retour pour enlever la vadrouille",
+          "returning_install_mop": "Retour à l'installation de la serpillière",
+          "returning_remove_mop": "Retour pour enlever la serpillière",
           "water_check": "Vérification de l'eau",
           "clean_add_water": "Nettoyer et ajouter de l'eau",
           "washing_paused": "Lavage en pause",
@@ -366,7 +366,7 @@
           "station_disconnected": "Station de base non allumée",
           "dirty_tank_level": "Le niveau d'eau dans le réservoir d'eau sale est trop élevé.",
           "washboard_level": "Le niveau d'eau du dispositif de nettoyage de la serpillière est trop élevé.",
-          "no_mop_in_station": "Le tampon de vadrouille n'est pas dans la station.",
+          "no_mop_in_station": "Le tampon de serpillière n'est pas dans la station.",
           "dust_bag_full": "Le sac à poussière est plein ou les évents sont obstrués."
         }
       },
@@ -405,7 +405,7 @@
           "no_warning": "Pas d'avertissement",
           "no_water_left_dismiss": "Veuillez vérifier le réservoir d'eau propre.",
           "no_water_left": "L'eau du réservoir d'eau propre est sur le point d'être épuisée. ",
-          "no_water_left_after_clean": "Le tampon de vadrouille a été nettoyé. ",
+          "no_water_left_after_clean": "Le tampon de serpillière a été nettoyé. ",
           "no_water_for_clean": "Niveau d'eau bas dans le réservoir d'eau propre. ",
           "low_water": "Sur le point de manquer d'eau. ",
           "tank_not_installed": "Le réservoir d'eau propre n'est pas installé."
